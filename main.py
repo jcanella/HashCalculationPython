@@ -13,6 +13,7 @@ frases = [
     "Em 1999 iniciam-se as atividades da FCI (Faculdade de Informática), como o curso de Ciência da Computação."
 ]
 
+
 for frase in frases:
     sha256_hash = hashlib.sha256(frase.encode()).hexdigest()
     md5_hash = hashlib.md5(frase.encode()).hexdigest()
