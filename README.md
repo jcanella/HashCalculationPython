@@ -12,3 +12,7 @@ Certifique-se de que você tenha o Python instalado na sua máquina. Você pode 
 
    ```bash
    git clone https://github.com/seu-nome-de-usuario/seu-repositorio.git
+
+## João Victor Rocha Mello Gava Canella		RA:22.120.054-6
+
+## Joao vitor de souza lisboa				RA:22.120.082-7
